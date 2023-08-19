@@ -15,6 +15,7 @@
 		AC2672AD2A8E738E005B9F71 /* dawingGroupBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC2672AC2A8E738E005B9F71 /* dawingGroupBootcamp.swift */; };
 		AC2672B12A8E842D005B9F71 /* BlursBlending.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC2672B02A8E842D005B9F71 /* BlursBlending.swift */; };
 		AC2673E12A90A265005B9F71 /* animatableData.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC2673E02A90A265005B9F71 /* animatableData.swift */; };
+		AC2673E32A90A66F005B9F71 /* AnimatablePair.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC2673E22A90A66F005B9F71 /* AnimatablePair.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,6 +28,7 @@
 		AC2672AC2A8E738E005B9F71 /* dawingGroupBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = dawingGroupBootcamp.swift; sourceTree = "<group>"; };
 		AC2672B02A8E842D005B9F71 /* BlursBlending.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BlursBlending.swift; sourceTree = "<group>"; };
 		AC2673E02A90A265005B9F71 /* animatableData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = animatableData.swift; sourceTree = "<group>"; };
+		AC2673E22A90A66F005B9F71 /* AnimatablePair.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimatablePair.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -43,6 +45,7 @@
 		AC26728C2A8E1DF3005B9F71 = {
 			isa = PBXGroup;
 			children = (
+				AC2673E22A90A66F005B9F71 /* AnimatablePair.swift */,
 				AC2672972A8E1DF3005B9F71 /* Project9-Drawing2(100SUI) */,
 				AC2672962A8E1DF3005B9F71 /* Products */,
 			);
@@ -150,6 +153,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				AC2672AD2A8E738E005B9F71 /* dawingGroupBootcamp.swift in Sources */,
+				AC2673E32A90A66F005B9F71 /* AnimatablePair.swift in Sources */,
 				AC26729B2A8E1DF3005B9F71 /* ContentView.swift in Sources */,
 				AC2672A92A8E22A0005B9F71 /* CreativeBorder.swift in Sources */,
 				AC2672992A8E1DF3005B9F71 /* Project9_Drawing2_100SUI_App.swift in Sources */,
