@@ -17,6 +17,7 @@
 		AC2673E12A90A265005B9F71 /* animatableData.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC2673E02A90A265005B9F71 /* animatableData.swift */; };
 		AC2673E32A90A66F005B9F71 /* AnimatablePair.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC2673E22A90A66F005B9F71 /* AnimatablePair.swift */; };
 		AC2673E72A90B1F3005B9F71 /* SpirographView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC2673E62A90B1F3005B9F71 /* SpirographView.swift */; };
+		AC2673E92A90BCBE005B9F71 /* ChallengeArrow.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC2673E82A90BCBE005B9F71 /* ChallengeArrow.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -31,6 +32,7 @@
 		AC2673E02A90A265005B9F71 /* animatableData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = animatableData.swift; sourceTree = "<group>"; };
 		AC2673E22A90A66F005B9F71 /* AnimatablePair.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimatablePair.swift; sourceTree = "<group>"; };
 		AC2673E62A90B1F3005B9F71 /* SpirographView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpirographView.swift; sourceTree = "<group>"; };
+		AC2673E82A90BCBE005B9F71 /* ChallengeArrow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChallengeArrow.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -70,6 +72,7 @@
 				AC2673E02A90A265005B9F71 /* animatableData.swift */,
 				AC2673E62A90B1F3005B9F71 /* SpirographView.swift */,
 				AC2672B02A8E842D005B9F71 /* BlursBlending.swift */,
+				AC2673E82A90BCBE005B9F71 /* ChallengeArrow.swift */,
 				AC2672AC2A8E738E005B9F71 /* dawingGroupBootcamp.swift */,
 				AC26729C2A8E1DF4005B9F71 /* Assets.xcassets */,
 				AC26729E2A8E1DF4005B9F71 /* Preview Content */,
@@ -156,6 +159,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				AC2672AD2A8E738E005B9F71 /* dawingGroupBootcamp.swift in Sources */,
+				AC2673E92A90BCBE005B9F71 /* ChallengeArrow.swift in Sources */,
 				AC2673E72A90B1F3005B9F71 /* SpirographView.swift in Sources */,
 				AC2673E32A90A66F005B9F71 /* AnimatablePair.swift in Sources */,
 				AC26729B2A8E1DF3005B9F71 /* ContentView.swift in Sources */,
